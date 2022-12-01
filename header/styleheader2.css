@@ -3,29 +3,29 @@ body {
     padding:0;
   }
   
-  .header01{
+  .header02{
     display:flex;
     justify-content: space-between;
     padding-left:200px;
     padding-right:00px;
     font-size:20px;
   height: 350px;
-  background: #FFC400;
+  background: #1976D2;
   }
   
-  .h01{
+  .h02{
      display: inline;
     padding-left:400px;
     font-size:30px;
   }
   
-  .p01{
+  .p02{
     display:flex;
     padding-left: 350px;
     
   }
   
-  .span01{
+  .span02{
     display: flex; 
       justify-content: space-between;
       align-items:center;
